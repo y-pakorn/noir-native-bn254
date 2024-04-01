@@ -1,0 +1,7 @@
+[package]
+name = "noir_native_bn254"
+type = "lib"
+authors = ["y-pakorn"]
+compiler_version = ">=0.25.0"
+
+[dependencies]
